@@ -1,8 +1,8 @@
 Predictive analytics of IPL
 
-Shahid Ikram    01FB15ECS274
-Sondhi Nishant  01FB15ECS298
-Siddhartha Roy  01FB15ECS292
+Shahid Ikram    
+Sondhi Nishant  
+Siddhartha Roy  
 
 Make sure that the following files are in the same folder:
     1. client.c
